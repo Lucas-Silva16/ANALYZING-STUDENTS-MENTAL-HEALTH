@@ -1,3 +1,5 @@
+<img width="945" height="522" alt="mentalhealth" src="https://github.com/user-attachments/assets/052ff7e4-fa01-4fc0-8cfe-62ba7ec98f5c" />
+
 # Analyzing Students' Mental Health
 
 > **SQL data analysis project** — Exploring factors that influence the mental health of international students at a Japanese university.
