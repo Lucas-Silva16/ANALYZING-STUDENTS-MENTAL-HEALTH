@@ -85,6 +85,13 @@ WHERE inter_dom = 'Inter'
 GROUP BY social_connectedness
 ORDER BY social_connectedness DESC
 ```
+**Results:**
+
+|conectividade_social|estudantes|depressao_media
+|---|---|---|
+Media conectividade social (25-36)|54|8.93
+Baixa conectividade social (0-24)|22|14.73
+Alta conectividade social +37|125|6.49
 
 Results show a **clear inverse relationship** between social connectedness and depression: students with low social connectedness have significantly higher depression scores.
 
@@ -199,7 +206,6 @@ ORDER BY age DESC
 | 18 | 28 | 8.75 | 34.11 | 80.61 |
 | 17 | 3 | 4.67 | 37.33 | 70.67 |
 
-> The youngest age groups (17–18) and the peak study years (21–23) show the highest acculturative stress levels, while older students tend to present lower depression scores — possibly reflecting greater life experience and resilience.
 
 ---
 
